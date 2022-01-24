@@ -6,4 +6,5 @@ SP500 ETF Weightings component from adamcao.dev built using:
 - Chakra UI.
 - React Chartjs 2
 - FMP https://site.financialmodelingprep.com/developer
+
 View at https://www.adamcao.dev/etfweight
